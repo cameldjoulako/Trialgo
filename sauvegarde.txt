@@ -1,0 +1,79 @@
+				LES RESULTATS APRES EXECUTION DU PROGRAMME
+				     Nom du fichier: sauvegarde.txt
+ 
+			 
+===================================================================
+
+		Voici le tableau non trie que vous avez entrer:
+ 		|6 | 0 | 3 | 5 | 1 | 4 | 2 | 
+ 		 
+		Apres execution du tri on obtient le tableau suivant:
+ 		| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 
+
+		le nombre d'operation effectue pour le tri est: 12
+===================================================================
+
+ 
+			 
+===================================================================
+
+		Voici le tableau non trie que vous avez entrer:
+ 		|2 | 2 | 1 | 0 | -5 | 
+ 		 
+		Apres execution du tri on obtient le tableau suivant:
+ 		| -5 | 0 | 1 | 2 | 2 | 
+
+		le nombre d'operation effectue pour le tri est: 9
+===================================================================
+
+ 
+			 
+===================================================================
+
+		Voici le tableau non trie que vous avez entrer:
+ 		|8 | 9 | 
+ 		 
+		Apres execution du tri on obtient le tableau suivant:
+ 		| 8 | 9 | 
+
+		le nombre d'operation effectue pour le tri est: 0
+===================================================================
+
+ 
+			 
+===================================================================
+
+		Voici le tableau non trie que vous avez entrer:
+ 		|2 | 0 | -2 | 
+ 		 
+		Apres execution du tri on obtient le tableau suivant:
+ 		| -2 | 0 | 2 | 
+
+		le nombre d'operation effectue pour le tri est: 3
+===================================================================
+
+ 
+			 
+===================================================================
+
+		Voici le tableau non trie que vous avez entrer:
+ 		|2 | 
+ 		 
+		Apres execution du tri on obtient le tableau suivant:
+ 		| 2 | 
+
+		le nombre d'operation effectue pour le tri est: 0
+===================================================================
+
+ 
+			 
+===================================================================
+
+		Voici le tableau non trie que vous avez entrer:
+ 		|7 | 95 | 48 | 56 | 56 | 56 | 56 | 0 | 42 | -9 | 
+ 		 
+		Apres execution du tri on obtient le tableau suivant:
+ 		| -9 | 0 | 7 | 42 | 48 | 56 | 56 | 56 | 56 | 95 | 
+
+		le nombre d'operation effectue pour le tri est: 27
+===================================================================

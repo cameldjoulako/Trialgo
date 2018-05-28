@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1484514254 source:d:\mes projets\tri_bulle\entete.c
+	"fonction.h"
+
+1484788830 h"
+
+1484588848 d:\mes projets\tri_bulle\fonction.h
+
+1484643038 source:d:\mes projets\tri_bulle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"fonction.h"
+
+1484588573 source:d:\mes projets\tri_bulle\menu.c
+	"fonction.h"
+
+1484577375 source:d:\mes projets\tri_bulle\saisi.c
+	"fonction.h"
+
+1484512160 source:d:\mes projets\tri_bulle\tri.c
+	"fonction.h"
+
+1484736476 source:d:\projet info9\tri_bulle\entete.c
+	"fonction.h"
+
+1484788801 d:\projet info9\tri_bulle\fonction.h
+	<stdio.h>
+	<stdlib.h>
+
+1484788801 
+
+1484951585 source:d:\projet info9\tri_bulle\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
+1484588573 source:d:\projet info9\tri_bulle\menu.c
+	"fonction.h"
+
+1484902576 source:d:\projet info9\tri_bulle\saisi.c
+	"fonction.h"
+
+1484951781 source:d:\projet info9\tri_bulle\tri.c
+	"fonction.h"
+
+1484787932 source:d:\projet info9\tri_bulle\menufin.c
+	"fonction.h"
+
+1484736476 source:d:\projet info9\tri_bulle final\entete.c
+	"fonction.h"
+
+1484758175 d:\projet info9\tri_bulle final\fonction.h
+	<stdio.h>
+	<stdlib.h>
+
+1484753992 source:d:\projet info9\tri_bulle final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
+1484588573 source:d:\projet info9\tri_bulle final\menu.c
+	"fonction.h"
+
+1484750571 source:d:\projet info9\tri_bulle final\menufin.c
+	"fonction.h"
+
+1484759460 source:d:\projet info9\tri_bulle final\saisi.c
+	"fonction.h"
+
+1484753791 source:d:\projet info9\tri_bulle final\tri.c
+	"fonction.h"
+
+1484736476 source:f:\tri_bulle\entete.c
+	"fonction.h"
+
+1484788801 f:\tri_bulle\fonction.h
+	<stdio.h>
+	<stdlib.h>
+
+1484588573 source:f:\tri_bulle\menu.c
+	"fonction.h"
+
+1484787932 source:f:\tri_bulle\menufin.c
+	"fonction.h"
+
+1484790143 source:f:\tri_bulle\saisi.c
+	"fonction.h"
+
+1484786657 source:f:\tri_bulle\tri.c
+	"fonction.h"
+
+1484788899 source:f:\tri_bulle\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
+1484788830 source:f:\tri_bulle\lecture_fichier.c
+	"fonction.h"
+
+1484788830 source:d:\projet info9\tri_bulle\lecture_fichier.c
+	"fonction.h"
+
+1484736476 source:/media/cameldjoulako/DATA/MES PROJETS/PROJET INFO9/TRI_BULLE/entete.c
+	"fonction.h"
+
+1484788801 /media/cameldjoulako/DATA/MES PROJETS/PROJET INFO9/TRI_BULLE/fonction.h
+	<stdio.h>
+	<stdlib.h>
+
+1484788830 source:/media/cameldjoulako/DATA/MES PROJETS/PROJET INFO9/TRI_BULLE/lecture_fichier.c
+	"fonction.h"
+
+1484992980 source:/media/cameldjoulako/DATA/MES PROJETS/PROJET INFO9/TRI_BULLE/main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
+1484588573 source:/media/cameldjoulako/DATA/MES PROJETS/PROJET INFO9/TRI_BULLE/menu.c
+	"fonction.h"
+
+1484787932 source:/media/cameldjoulako/DATA/MES PROJETS/PROJET INFO9/TRI_BULLE/menufin.c
+	"fonction.h"
+
+1484902576 source:/media/cameldjoulako/DATA/MES PROJETS/PROJET INFO9/TRI_BULLE/saisi.c
+	"fonction.h"
+
+1484951781 source:/media/cameldjoulako/DATA/MES PROJETS/PROJET INFO9/TRI_BULLE/tri.c
+	"fonction.h"
+
+1508521335 source:d:\data pers\projets\projet en c\tri_bulle\entete.c
+	"fonction.h"
+
+1484788801 d:\data pers\projets\projet en c\tri_bulle\fonction.h
+	<stdio.h>
+	<stdlib.h>
+
+1484788830 source:d:\data pers\projets\projet en c\tri_bulle\lecture_fichier.c
+	"fonction.h"
+
+1484992980 source:d:\data pers\projets\projet en c\tri_bulle\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
+1484588573 source:d:\data pers\projets\projet en c\tri_bulle\menu.c
+	"fonction.h"
+
+1484787932 source:d:\data pers\projets\projet en c\tri_bulle\menufin.c
+	"fonction.h"
+
+1484902576 source:d:\data pers\projets\projet en c\tri_bulle\saisi.c
+	"fonction.h"
+
+1484951781 source:d:\data pers\projets\projet en c\tri_bulle\tri.c
+	"fonction.h"
+
